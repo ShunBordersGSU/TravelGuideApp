@@ -47,11 +47,11 @@
         android:padding="20dp" />
 
     <TextView
-        android:text="Would you like to visit countries in the Same continent?"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="@color/cardview_light_background"
-        android:padding="20dp" />
+        android:padding="20dp"
+        android:text="Would you like to visit countries in the same continent?"
+        android:textColor="@color/cardview_light_background" />
 
     <LinearLayout
         android:orientation="horizontal"
